@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">EDU105</string>
+    <string name="requirements">Требования</string>
+    <string name="explanation">Изложение</string>
+    <string name="feedback">Аудитория</string>
+    <string name="extracurricular">Вне аудитории</string>
+    <string name="purview">Кругозор</string>
+    <string name="newness">Новизна</string>
+    <string name="difficult">Сложность</string>
+    <string name="career">Карьера</string>
+    <string name="prof_rating">Оценка преподавателя</string>
+    <string name="disc_rating">Оценка преподавателя</string>
 </resources>

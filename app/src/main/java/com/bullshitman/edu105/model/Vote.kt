@@ -1,6 +1,7 @@
 package com.bullshitman.edu105.model
 
 data class Vote(
+    val cnt: String,
     val d_career: String,
     val d_difficult: String,
     val d_newness: String,
